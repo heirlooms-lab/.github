@@ -1,6 +1,6 @@
 # Heirlooms Lab
 
-Stories, tools, and quiet software — from a small studio in Italy.
+Stories, tools, and quiet software — from a small indipendent studio.
 
 **Currently in the workshop**
 
