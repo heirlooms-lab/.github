@@ -1,14 +1,8 @@
-# Heirlooms Lab
+# heirlooms-lab/.github
 
-Stories, tools, and quiet software — from a small studio in Italy.
+This repository holds the public profile of the [Heirlooms Lab](https://heirloomslab.com) organisation on GitHub.
 
-**Currently in the workshop**
+- `profile/README.md` is the page shown on [github.com/heirlooms-lab](https://github.com/heirlooms-lab).
+- `profile/assets/` holds its images.
 
-- [**Storify**](https://mystorify.app) — a way to tell the story of a life, for the people who'll want to hear it. *In development.*
-- **Beyond Us** — *coming 2026.*
-
-Studio: [heirloomslab.com](https://heirloomslab.com) · Contact: [info@heirloomslab.com](mailto:info@heirloomslab.com)
-
----
-
-_Made with care · Not with haste._
+Contact: [hello@heirloomslab.com](mailto:hello@heirloomslab.com)
